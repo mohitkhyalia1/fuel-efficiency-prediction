@@ -111,9 +111,3 @@ fuel-efficiency-prediction/
 ├── .gitignore                          # Files to exclude from Git
 └── README.md                           # Project documentation
 ```
-
----
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
