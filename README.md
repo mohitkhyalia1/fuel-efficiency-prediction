@@ -84,7 +84,7 @@ This project applies supervised machine learning techniques to predict the **mil
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/fuel-efficiency-prediction.git
+git clone https://github.com/mohitkhyalia1/fuel-efficiency-prediction.git
 cd fuel-efficiency-prediction
 ```
 
